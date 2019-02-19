@@ -1,7 +1,0 @@
-c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerBZ\obj\Debug\CheatManagerBZ.csproj.CoreCompileInputs.cache
-c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerBZ\bin\debug\config.txt
-c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerBZ\bin\debug\mod.json
-c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerBZ\bin\debug\CheatManagerBZ.dll
-c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerBZ\bin\debug\CheatManagerBZ.pdb
-c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerBZ\obj\Debug\CheatManagerBZ.dll
-c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerBZ\obj\Debug\CheatManagerBZ.pdb
