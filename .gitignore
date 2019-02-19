@@ -4,3 +4,7 @@
 *.cache
 SlotExtenderZero/obj/Release/SlotExtenderZero.csprojAssemblyReference.cache
 .vs/SennaSubnauticaBelowZeroMods/v15/Server/sqlite3/storage.ide-shm
+.vs/SennaSubnauticaBelowZeroMods/v15/Server/sqlite3/storage.ide-wal
+.vs/SennaSubnauticaBelowZeroMods/v15/Server/sqlite3/storage.ide
+.vs/SennaSubnauticaBelowZeroMods/v15/Server/sqlite3/storage.ide-shm
+.vs/SennaSubnauticaBelowZeroMods/v15/Server/sqlite3/storage.ide-wal
