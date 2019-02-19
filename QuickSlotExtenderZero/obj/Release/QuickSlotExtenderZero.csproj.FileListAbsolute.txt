@@ -1,0 +1,9 @@
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\QuickSlotExtenderZero\bin\Release\config.txt
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\QuickSlotExtenderZero\bin\Release\QuickSlotExtenderZero.dll
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\QuickSlotExtenderZero\bin\Release\QuickSlotExtenderZero.pdb
+c:\Program Files\Epic Games\SubnauticaBelowZero\QMods\QuickSlotExtenderZero\config.txt
+c:\Program Files\Epic Games\SubnauticaBelowZero\QMods\QuickSlotExtenderZero\mod.json
+c:\Program Files\Epic Games\SubnauticaBelowZero\QMods\QuickSlotExtenderZero\QuickSlotExtenderZero.dll
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\QuickSlotExtenderZero\obj\Release\QuickSlotExtenderZero.csproj.CoreCompileInputs.cache
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\QuickSlotExtenderZero\obj\Release\QuickSlotExtenderZero.dll
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\QuickSlotExtenderZero\obj\Release\QuickSlotExtenderZero.csprojAssemblyReference.cache

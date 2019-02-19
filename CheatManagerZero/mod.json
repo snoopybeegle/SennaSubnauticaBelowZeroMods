@@ -1,0 +1,14 @@
+﻿{
+  "Id": "CheatManagerZer0",
+  "DisplayName": "CheatManagerZer0",
+  "Author": "Senna",
+  "Version": "1.0",
+  "Dependencies": [],
+  "LoadBefore": [],
+  "LoadAfter": [],
+  "Enable": true,
+  "Game": "BelowZero",  
+  "AssemblyName": "CheatManagerZer0.dll",
+  "EntryMethod": "CheatManagerZer0.Main.Load",
+  "Config": { }
+}

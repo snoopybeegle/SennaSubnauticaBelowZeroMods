@@ -1,0 +1,5 @@
+c:\Program Files\Epic Games\SubnauticaBelowZero\SubnauticaZero_Data\Managed\config.txt
+c:\Program Files\Epic Games\SubnauticaBelowZero\SubnauticaZero_Data\Managed\mod.json
+c:\Program Files\Epic Games\SubnauticaBelowZero\SubnauticaZero_Data\Managed\CheatManagerBZ.dll
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerBZ\obj\Release\CheatManagerBZ.csproj.CoreCompileInputs.cache
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerBZ\obj\Release\CheatManagerBZ.dll

@@ -1,0 +1,6 @@
+c:\Program Files\Epic Games\SubnauticaBelowZero\QMods\SlotExtenderZero\config.txt
+c:\Program Files\Epic Games\SubnauticaBelowZero\QMods\SlotExtenderZero\mod.json
+c:\Program Files\Epic Games\SubnauticaBelowZero\QMods\SlotExtenderZero\SlotExtenderZero.dll
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\SlotExtenderZero\obj\Release\SlotExtenderZero.csproj.CoreCompileInputs.cache
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\SlotExtenderZero\obj\Release\SlotExtenderZero.dll
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\SlotExtenderZero\obj\Release\SlotExtenderZero.csprojAssemblyReference.cache

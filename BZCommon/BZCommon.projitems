@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>58ca8c1c-305b-4e2d-9652-499e90b8052c</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>BZCommon</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)ConfigurationParser\FileReader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ConfigurationParser\Helper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ConfigurationParser\Parser.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ConfigurationParser\Section.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ConfigurationParser\SectionParser.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DebugHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GameHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUIHelper\HorizontalSlider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUIHelper\SNDropDown.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUIHelper\SNGUI.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUIHelper\SNHorizontalSlidercs.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUIHelper\SNScrollView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUIHelper\SNStyles.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GUIHelper\SNWindow.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)InputHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Modules.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)RefHelp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)UnityHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)Common.projitems" />
+  </ItemGroup>
+</Project>

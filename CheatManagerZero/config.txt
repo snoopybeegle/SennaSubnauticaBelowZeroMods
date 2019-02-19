@@ -1,0 +1,27 @@
+[CheatManagerZer0]
+Version: 1.0
+
+[Hotkeys]
+ToggleWindow: F5
+ToggleMouse: F4
+ToggleConsole: Delete
+
+[Program]
+EnableConsole: True
+EnableInfoBar: True
+
+[Settings]
+OverPowerMultiplier: 2
+HungerAndThirstInterval: 1
+Information: OverPowerMultiplier and HungerAndThirstInterval possible values: 1 to 10
+
+[ToggleButtons]
+fastbuild: False
+fastscan: False
+fastgrow: False
+fasthatch: False
+filterfast: False
+invisible: False
+nodamage: False
+alwaysday: False
+overpower: False

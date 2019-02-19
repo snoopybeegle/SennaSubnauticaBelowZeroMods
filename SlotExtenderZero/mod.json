@@ -1,0 +1,13 @@
+﻿{
+  "Id": "SlotExtenderZero",
+  "DisplayName": "SlotExtenderZero",
+  "Author": "Senna, PrimeSonic",
+  "Version": "1.0",
+  "Dependencies": [],
+  "LoadBefore": [],
+  "LoadAfter": [],
+  "Enable": true,
+  "Game": "BelowZero",
+  "AssemblyName": "SlotExtenderZero.dll",
+  "EntryMethod": "SlotExtenderZero.Main.Load" 
+}

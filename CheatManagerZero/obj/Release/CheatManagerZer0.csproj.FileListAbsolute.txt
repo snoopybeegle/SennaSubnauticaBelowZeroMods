@@ -1,0 +1,6 @@
+c:\Program Files\Epic Games\SubnauticaBelowZero\QMods\CheatManagerZer0\config.txt
+c:\Program Files\Epic Games\SubnauticaBelowZero\QMods\CheatManagerZer0\mod.json
+c:\Program Files\Epic Games\SubnauticaBelowZero\QMods\CheatManagerZer0\CheatManagerZer0.dll
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerZero\obj\Release\CheatManagerZer0.csproj.CoreCompileInputs.cache
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerZero\obj\Release\CheatManagerZer0.dll
+c:\Users\Senna\source\repos\SennaSubnauticaBelowZeroMods\CheatManagerZero\obj\Release\CheatManagerZer0.csprojAssemblyReference.cache
